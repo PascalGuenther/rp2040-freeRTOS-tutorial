@@ -9,3 +9,6 @@ This follows a [tutorial by "Learn Embedded Systems"](https://github.com/LearnEm
 
  - Part 3: Scheduling and Task Priorities  
  [Video](https://www.youtube.com/watch?v=S7c0B9Y1x-M) | [Blog Post](https://learnembeddedsystems.co.uk/freertos-on-the-rp2040-part-3-source-code)
+
+ - Part 4: Mutex  
+ [Video](https://www.youtube.com/watch?v=WQM8bMvvs2c) | [Blog Post](https://learnembeddedsystems.co.uk/freertos-on-the-rp2040-part-4-source-code)
