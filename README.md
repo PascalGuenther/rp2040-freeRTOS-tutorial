@@ -1,5 +1,5 @@
 # FreeRTOS on RP2040
-This follows a [tutorial by "Learn Embedded Systems"](https://github.com/LearnEmbeddedSystems/rp2040-freertos-project)
+This follows a tutorial by "Learn Embedded Systems". Check out the [template repository](https://github.com/LearnEmbeddedSystems/rp2040-freertos-project).
 
  - Part 1: Blink  
  [Video](https://www.youtube.com/watch?v=jCZxStjzGA8) | [Blog Post](https://learnembeddedsystems.co.uk/freertos-on-rp2040-boards-pi-pico-etc-using-vscode)
@@ -12,3 +12,6 @@ This follows a [tutorial by "Learn Embedded Systems"](https://github.com/LearnEm
 
  - Part 4: Mutex  
  [Video](https://www.youtube.com/watch?v=WQM8bMvvs2c) | [Blog Post](https://learnembeddedsystems.co.uk/freertos-on-the-rp2040-part-4-source-code)
+
+ - Part 5: Semaphores  
+ [Video](https://www.youtube.com/watch?v=0mqlPds5rkU) | [Blog Post](https://learnembeddedsystems.co.uk/freertos-on-the-rp2040-part-5-semaphores)
